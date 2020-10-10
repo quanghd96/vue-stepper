@@ -48,5 +48,10 @@ export default {
         next: 'Nästa',
         back: 'Tillbaka',
         finish: 'Skicka'
+    },
+    vi: {
+        next: 'Tiếp tục',
+        back: 'Quay lại',
+        finish: 'Hoàn thành'
     }
 }
